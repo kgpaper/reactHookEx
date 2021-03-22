@@ -16,6 +16,6 @@ const useClick = (onClick) => {
     };
   }, []);
   return element;
-};
+}; 
 
 export default useClick;
