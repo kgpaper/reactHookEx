@@ -4,7 +4,7 @@
 npm에 등록되어있는 리액트 훅
 - [] useTitle
 - [] useInput
-- [] usePageLeave
+- [] useBeforeLeave
 - [] useClick
 - [] useFadeIn
 - [] useFullscreen
